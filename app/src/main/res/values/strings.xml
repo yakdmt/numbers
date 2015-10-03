@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Numbers</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="input_hint">Type your number here</string>
+    <string name="output_hint">Text result</string>
+    <string name="too_long">Number is too long</string>
+    <string name="invalid_number">Invalid number</string>
+</resources>
